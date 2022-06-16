@@ -20,5 +20,5 @@ end
 
 def select_youngest_bear_and_returns_name_and_age
   "Write your SQL query here"
-  "select bears.name,bears.age from bears ORDER BY age ASC LIMIT 1;"
+  ""
 end
